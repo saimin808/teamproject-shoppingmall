@@ -58,8 +58,6 @@ http://118.67.135.214:8888/OnoreTeamProject/admin/main
 </br>
 
 ## 7. 프로젝트 진행과정
-
-<br>
 ![image](https://user-images.githubusercontent.com/67626942/226583456-05839c99-9014-47df-ab5a-187bdb008e89.png)
 <br>
 
